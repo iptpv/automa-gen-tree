@@ -1,7 +1,11 @@
 {
   "name": "automa-gen-tree",
   "version": "0.0.1",
-  "description": "Generate tree of files",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:unclepotap/automa-gen-tree.git"
+  },
+  "description": "Generate lists of files",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
